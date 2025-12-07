@@ -6,7 +6,7 @@ This repository contains the solution for the AccuKnox QA Trainee Practical Asse
 
 1.  **Clone the Repository:**
     ```
-    git clone [https://github.com/](https://github.com/)singhpratik-17/AccuKnox-user-management-tests.git
+    git clone https://github.com/singhpratik-17/AccuKnox-user-management-tests.git
     cd AccuKnox-user-management-tests
     ```
 2.  **Install Dependencies (Node.js/npm required):**
